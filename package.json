@@ -1,0 +1,15 @@
+{
+  "name": "js-rabbitmq-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "publisher.js",
+  "scripts": {
+    "publish": "node publisher.js 7",
+    "consume": "node consumer.js"
+  },
+  "author": "Razvan Vancea",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.7.1"
+  }
+}
