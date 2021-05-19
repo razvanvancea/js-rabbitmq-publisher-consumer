@@ -1,5 +1,8 @@
 ## **JS Project that implements RabbitMQ message broker.** 
 
+### **Prerequisites**
+NodeJS, Docker
+
 ### **Setup**
 ```
 npm install
