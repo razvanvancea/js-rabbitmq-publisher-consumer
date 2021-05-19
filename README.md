@@ -3,6 +3,7 @@
 ### **Prerequisites**
 NodeJS, Docker
 
+>>>>>>> Stashed changes
 ### **Setup**
 ```
 npm install
