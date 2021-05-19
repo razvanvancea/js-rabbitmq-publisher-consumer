@@ -14,7 +14,7 @@ docker-compose up -d
 node publisher.js 7
 ```
 
-Note: feel free to replace '3' with other message ID values
+Note: feel free to replace '7' with other message ID values
 
 ### **Consume a message**
 ```
