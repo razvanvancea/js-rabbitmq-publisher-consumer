@@ -24,5 +24,7 @@ node consumer.js
 ### **RabbitMQ GUI**
 http://localhost:15672
 
+Credentials: use 'guest' as username and password
+
 ### **RabbitMQ Docs**
 https://www.rabbitmq.com/#features
