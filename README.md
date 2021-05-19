@@ -26,5 +26,7 @@ http://localhost:15672
 
 Credentials: use 'guest' as username and password
 
+<img src="blob/img.png">
+
 ### **RabbitMQ Docs**
 https://www.rabbitmq.com/#features
