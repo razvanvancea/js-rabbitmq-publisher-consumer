@@ -1,5 +1,12 @@
 ## **JS Project that implements RabbitMQ message broker.** 
 
+### **RabbitMQ GUI**
+http://localhost:15672
+
+Credentials: use 'guest' as username and password
+
+<img src="blob/img.png">
+
 ### **Prerequisites**
 NodeJS, Docker
 
@@ -21,13 +28,6 @@ Note: feel free to replace '7' with other message ID values
 ```
 node consumer.js
 ```
-
-### **RabbitMQ GUI**
-http://localhost:15672
-
-Credentials: use 'guest' as username and password
-
-<img src="blob/img.png">
 
 ### **RabbitMQ Docs**
 https://www.rabbitmq.com/#features
